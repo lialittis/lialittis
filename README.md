@@ -40,6 +40,10 @@ I'm a passionate PhD candidate in Computer Science, specializing in System Secur
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lialittis&show_icons=true&theme=dark)
 -->
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lialittis&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tianchi's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lialittis&hide=javascript,html&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lialittis&count_private=true&show_icons=true&theme=dark" />
 
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lialittis&theme=default&show_icons=true" />
