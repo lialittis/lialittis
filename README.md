@@ -37,8 +37,12 @@ I'm a passionate PhD candidate in Computer Science, specializing in System Secur
 ## 💼 Research Projects
 
 ## 📊 GitHub Stats
-
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lialittis&show_icons=true&theme=dark)
+-->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lialittis&count_private=true&show_icons=true&theme=dark" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lialittis&theme=default&show_icons=true" />
 
 ## 🌐 Connect with Me
 
