@@ -14,7 +14,7 @@ I'm a passionate PhD candidate in Computer Science, specializing in System Secur
 <!--
 ## 🔧 Skills
 
-- **Languages:** C/C++, Python, Java
+- **Languages:** C/C++, Python, OCAML
 - **Frameworks:** React, Node.js, Express.js, Django
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools:** Git, Docker, VS Code, Jupyter Notebook
@@ -41,12 +41,9 @@ I'm a passionate PhD candidate in Computer Science, specializing in System Secur
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lialittis&show_icons=true&theme=dark)
 -->
 
-| <a href="https://github.com/lialittis"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lialittis&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=false" alt="Tianchi's github stats" /></a> | <a href="https://github.com/lialittis"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lialittis&hide=javascript,html,jupyter%20notebook,emacs%20lisp,makefile&layout=compact&theme=gruvbox&hide_border=false" /></a> |
+| <a href="https://github.com/lialittis"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lialittis&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true" alt="Tianchi's github stats" /></a> | <a href="https://github.com/lialittis"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lialittis&hide=javascript,html,jupyter%20notebook,emacs%20lisp,makefile&layout=compact&theme=gruvbox&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lialittis&count_private=true&show_icons=true&theme=dark" />
-
-<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lialittis&theme=default&show_icons=true" />
 
 ## 🌐 Connect with Me
 
