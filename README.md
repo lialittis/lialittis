@@ -49,7 +49,7 @@ I'm a passionate PhD candidate in Computer Science, specializing in System Secur
 
 - [LinkedIn](https://www.linkedin.com/in/tianchi-yu)
 - [Twitter](https://twitter.com/yu_tianchi)
-- [Personal Website](https://lialittis.github.io)
+- [Personal Website](https://tianchiyu.me)
 - Email: yu-tianchi@outlook.com
 
 <!--
