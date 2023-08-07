@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lialittis&color=blue)
 
-I'm a passionate PhD candidate in Computer Science, specializing in System Security, Heterogeneous Computing and Trustworthy Machine Learning. You could find more info about me at my personal [website](https://www.tianchiyu.me)
+I'm a passionate Ph.D. student in Computer Science, specializing in System Security, Heterogeneous Computing and Trustworthy Machine Learning. You could find more info about me at my personal [**website**](https://www.tianchiyu.me).
 
 ## 🔬 Research Interests
 
