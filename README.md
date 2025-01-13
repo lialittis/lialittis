@@ -22,14 +22,14 @@ I'm a passionate Ph.D. student in Computer Science, specializing in System Secur
 
 ## 🎓 Education
 
-- **PhD in Computer Science** (Expected 2026)  
-  Technical University of Munich (TUM), Munich, Germany
-
+- **PhD in Computer Science** (Expected 2027)  
+  University of Padua, Italy
+  
 - **Master of Science(Diplôme d'ingénieur) in Computer Science** (2022)  
   ISAE-SUPAERO, Toulouse, France
 
 - **Master of Science in Computer Science** (2021)  
-  Institut Polytechnique de Paris, Paris, France
+  Ecole Polytechnique/Institut Polytechnique de Paris, Paris, France
   
 - **Bachelor in Engineering** (2018)  
   Southeast University, Nanjing, China
